@@ -2,5 +2,5 @@ a {
     text-decoration: none;
 }
 body{
-    background: url("../img/3d-interior-de-quarto-grunge-com-holofotes-e-fundo-de-atmosfera-esfumacada.jpg") no-repeat;
+    background: url("../img/3d-interior-de-quarto-grunge-com-holofotes-e-fundo-de-atmosfera-esfumacada.jpg") no-repeat top center/cover;
 }
