@@ -1,12 +1,43 @@
+@import url('https://fonts.googleapis.com/css2?family=Protest+Strike&display=swap');
+
 *{
     margin: 0;
     padding: 0;
     box-sizing: border-box;
 }
-
 a {
     text-decoration: none;
+    color: grey;
 }
 body{
     background: url("../img/3d-interior-de-quarto-grunge-com-holofotes-e-fundo-de-atmosfera-esfumacada.jpg") no-repeat top center/cover;
+}
+p, footer {
+    color: white;
+}
+body *{
+    color: white;
+}
+p{
+    font-family: arial;
+}
+a{
+    font-family: arial;
+}
+.nome{
+    font-family: "Protest Strike";
+}
+.conteiner{
+    max-width: 730px;
+    margin: 40px auto;
+    padding: 20px;
+}
+.perfil{
+    text-align: center;
+    padding: 25px 0;
+}
+
+.perfil img{
+    width: 150px;
+    border-radius: 100%;
 }
